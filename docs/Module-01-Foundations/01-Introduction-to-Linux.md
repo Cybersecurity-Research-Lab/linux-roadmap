@@ -211,7 +211,7 @@ You are now ready to begin working with Linux itself.
 
 ---
 
-# 💪 Practice Exercises
+#  Practice Exercises
 
 1. Explain in your own words what an operating system is.
 2. List five places where Linux is commonly used.
