@@ -47,7 +47,7 @@ Before starting, make sure you have:
 3. Save the ISO somewhere easy to find (such as your Downloads folder).
 
 >  **Ubuntu Download Page**
-> ![Ubuntu Download Page](../assets/ubuntu-download.png)
+> ![Ubuntu Download Page](../assets/ubuntu-download-page.png)
 
 > 💡 **Why LTS?**
 >
@@ -118,7 +118,8 @@ Before starting the VM:
 3. Select the empty optical drive.
 4. Attach the Ubuntu ISO.
 
-> 📷 **Screenshot 07** – Attach Ubuntu ISO
+> **Attach Ubuntu ISO**
+> ![Attach Ubuntu ISO](../assets/attach-iso.png)
 
 ---
 
