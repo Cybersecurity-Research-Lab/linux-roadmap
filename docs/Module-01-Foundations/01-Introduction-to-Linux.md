@@ -12,9 +12,9 @@
 >
 > 📖 **Prerequisites:** None
 >
-> 💻 **Lab:** [Lab 01 – Introduction to Linux](linux-roadmap/labs/Lab-01-Introduction-to-Linux.md)
+> 💻 **Lab:** [Lab 01 – Introduction to Linux](../labs/Lab-01-Introduction-to-Linux.md)
 >
-> 📄 **Cheat Sheet:** [Linux Basics Cheat Sheet](linux-roadmap/cheatsheets/Linux-Basics.md)
+> 📄 **Cheat Sheet:** [Linux Basics Cheat Sheet](../cheatsheets/Linux-Basics.md)
 >
 > 🛠️ **Troubleshooting:** None required for this lesson
 
@@ -256,10 +256,10 @@ None — this is the first lesson.
 
 📖 [Lesson 02 – Installing Linux](02-Installing-Linux.md)
 
-💻 [Lab 01 – Introduction to Linux](linux-roadmap/labs/Lab-01-Introduction-to-Linux.md)
+💻 [Lab 01 – Introduction to Linux](../labs/Lab-01-Introduction-to-Linux.md)
 
-📄 [Linux Basics Cheat Sheet](linux-roadmap/cheatsheets/Linux-Basics.md)
+📄 [Linux Basics Cheat Sheet](../cheatsheets/Linux-Basics.md)
 
-🛠️ [Troubleshooting](linux-roadmap/troubleshooting/)
+🛠️ [Troubleshooting](../troubleshooting/)
 
 📚 [Module Resources](README.md)
