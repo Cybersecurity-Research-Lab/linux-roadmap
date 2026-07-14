@@ -46,7 +46,8 @@ Before starting, make sure you have:
 2. Download the latest **Ubuntu Desktop LTS** ISO.
 3. Save the ISO somewhere easy to find (such as your Downloads folder).
 
-> 📷 **Screenshot 01** – Ubuntu Download Page
+>  **Ubuntu Download Page**
+> ![Ubuntu Download Page](../assets/ubuntu-download.png)
 
 > 💡 **Why LTS?**
 >
@@ -67,9 +68,11 @@ Before starting, make sure you have:
 3. Keep the default installation settings unless you have a specific reason to change them.
 4. Launch VirtualBox.
 
-> 📷 **Screenshot 02** – VirtualBox Installer
+> **VirtualBox Installer**
+> ![VirtualBox Installer](../assets/virtualbox-install-page.png)
 
-> 📷 **Screenshot 03** – VirtualBox Home Screen
+> **VirtualBox Home Screen**
+> ![VirtualBox Home Screen](../assets/virtualbox-home.png)
 
 ---
 
@@ -94,11 +97,11 @@ Click **New** and configure the virtual machine using the following settings.
 | Disk         | 30 GB                 |
 | Storage Type | Dynamically Allocated |
 
-> 📷 **Screenshot 04** – Create New Virtual Machine
+>  **Create New Virtual Machine**
+   ![Create New Virtual Machine](../assets/create-vm.png)
 
-> 📷 **Screenshot 05** – RAM Allocation
-
-> 📷 **Screenshot 06** – Virtual Hard Disk Configuration
+>  **Virtual Hard Disk Configuration**
+    ![Virtual Hard Disk Configuration](../assets/ram-allocation.png)
 
 > 💡 **Why 4 GB RAM?**
 >
@@ -154,16 +157,6 @@ Wait until installation finishes.
 
 Restart the virtual machine when prompted.
 
-> 📷 **Screenshot 08** – Ubuntu Welcome Screen
-
-> 📷 **Screenshot 09** – Installation Type
-
-> 📷 **Screenshot 10** – Disk Configuration
-
-> 📷 **Screenshot 11** – User Account Creation
-
-> 📷 **Screenshot 12** – Installation Progress
-
 ---
 
 ## ✅ Checkpoint
@@ -197,9 +190,8 @@ ls
 
 You don't need to understand every command yet—we'll learn them in the next lessons.
 
-> 📷 **Screenshot 13** – Ubuntu Desktop
-
-> 📷 **Screenshot 14** – Terminal
+ **Ubuntu Desktop**
+ ![Ubuntu Desktop](../assets/ubuntu-desktop.png)
 
 ---
 
