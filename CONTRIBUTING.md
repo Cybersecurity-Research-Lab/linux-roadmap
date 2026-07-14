@@ -12,7 +12,7 @@ Every contribution—whether it's fixing a typo or creating an entire learning m
 
 There are many ways to contribute to this project.
 
-# 📖 Improve Documentation
+### 📖 Improve Documentation
 
 - Correct grammar or spelling mistakes.
 - Improve explanations.
@@ -21,7 +21,7 @@ There are many ways to contribute to this project.
 
 ---
 
-# 💻 Create Practical Labs
+### 💻 Create Practical Labs
 
 Help design hands-on Linux exercises that reinforce concepts covered in the documentation.
 
@@ -35,7 +35,7 @@ Examples include:
 
 ---
 
-# Test Existing Content
+### Test Existing Content
 
 Try the tutorials yourself.
 
@@ -77,7 +77,7 @@ Examples:
 
 ---
 
-# 📋 Contribution Guidelines
+### 📋 Contribution Guidelines
 
 Before submitting a Pull Request:
 
@@ -92,7 +92,7 @@ Our goal is clarity, accuracy, and practical learning.
 
 ---
 
-#  Writing Style
+###  Writing Style
 
 Please follow these principles:
 
@@ -111,7 +111,7 @@ Whenever appropriate, include:
 
 ---
 
-#  Pull Request Process
+###  Pull Request Process
 
 1. Fork the repository.
 2. Create a new branch.
@@ -122,7 +122,7 @@ Whenever appropriate, include:
 
 ---
 
-#  Code of Conduct
+###  Code of Conduct
 
 We are committed to creating a welcoming and respectful learning environment.
 
