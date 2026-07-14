@@ -12,7 +12,7 @@
 >
 > 📖 **Prerequisites:** None
 >
-> 💻 **Lab:** [Lab 01 – Introduction to Linux](../../labs/Lab-01-Introduction-to-Linux.md)
+> 💻 **Lab:** [Lab 01 – Introduction to Linux](../../labs/Lab 01-Exploring-the-Linux-Ecosystem.md)
 >
 > 📄 **Cheat Sheet:** [Linux Basics Cheat Sheet](../../cheatsheets/Linux-Basics.md)
 >
