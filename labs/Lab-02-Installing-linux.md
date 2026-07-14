@@ -186,7 +186,7 @@ Verify:
 * Firefox launches.
 * Terminal opens successfully.
 
-Open Terminal and run:
+Open Terminal by pressing Ctrl + Alt + T, or click Activities, search for Terminal, and open it. Then run:
 
 ```bash
 pwd
