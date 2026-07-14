@@ -12,7 +12,7 @@
 
 🟦 **Lab Type:** Theory & Exploration
 
-📖 **Related Lesson:** [Lesson 01 – Introduction to Linux](../docs/Module-01-Linux-Foundations/01-Introduction-to-Linux.md)
+📖 **Related Lesson:** [Lesson 01 – Introduction to Linux](../docs/Module-01-Foundations/01-Introduction-to-Linux.md)
 
 ---
 
