@@ -226,4 +226,4 @@ Make sure you can:
 
 ➡️ **Next Lesson**
 
-📖 [Lesson 02 – Installing Linux](linux-roadmap/docs/Module-01-Linux-Foundations/02-Installing-Linux.md)
+📖 [Lesson 02 – Installing Linux](linux-roadmap/docs/Module-01-Linux-Foundations/02-installing-linux.md)
