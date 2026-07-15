@@ -34,10 +34,10 @@ After completing this lesson, you will be able to:
 
 ## 📖 Prerequisites
 
-* ![Lesson 01 – Introduction to Linux](01-
-* ![Lesson 02 – Installing Linux](02-
-* ![Lesson 03 – Terminal Basics](03-
-* ![Lesson 04 – Linux File System](04-
+* ![Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
+* ![Lesson 02 – Installing Linux](02-Installing-Linux.md)
+* ![Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
+* ![Lesson 04 – Linux File System](04-Linux-File-Directories.md)
 
 ---
 
@@ -486,7 +486,7 @@ In the next lesson, you'll learn how to:
 
 ⬅️ **Previous Lesson**
 
-![Lesson 04 – Linux File System](04-
+![Lesson 04 – Linux File System](04-Linux-File-system.md)
 
 ➡️ **Next Lesson**
 
