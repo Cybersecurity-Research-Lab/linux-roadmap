@@ -578,12 +578,12 @@ In the next module, you'll learn:
 
 📄 **Cheat Sheet**
 
-Text Editors Cheat Sheet
+[Text Editors Cheat Sheet](../../Cheatsheet/Module-01.md)
 
 🛠️ **Troubleshooting**
 
-Module 01 Troubleshooting
+[Module 01 Troubleshooting](../../Troubleshooting/Module-01.md)
 
 📚 **Resources**
 
-Text Editors Resources
+[Text Editors Resources](README.md)
