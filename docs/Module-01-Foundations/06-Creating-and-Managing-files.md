@@ -634,19 +634,18 @@ These commands form the foundation of everyday Linux usage and are among the mos
 
 ---
 
-#  What's Next?
+#  What's Next?
 
-Now that you know how to organize files and directories, it's time to understand **who can access them**.
+Now that you know how to create, organize, and manage files, it's time to learn how to **edit** them.
 
-In the next module, you'll learn:
+In the next lesson, you'll learn:
 
-* Linux users and groups.
-* File ownership.
-* Read, write, and execute permissions.
-* Permission notation.
-* The `chmod` command.
-* The `chown` command.
-* Why permissions are critical for Linux security.
+* Why Linux uses terminal-based text editors.
+* The differences between Nano and Vim.
+* How to create and edit text files.
+* How to save and exit safely.
+* Basic Vim modes and commands.
+* Why text editors are essential for Linux administration and cybersecurity.
 
 ---
 
@@ -659,7 +658,7 @@ In the next module, you'll learn:
 
 💻 **Lab**
 
-[Lab 06 – Creating and Managing Files](../../labs/lab-06-Creating-and-managing-files.md)
+[Lab 06 – Creating and Managing Files](../../labs/module-01/lab-06-Creating-and-managing-files.md)
 
 📄 **Cheat Sheet**
 
