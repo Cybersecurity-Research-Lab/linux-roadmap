@@ -1,4 +1,4 @@
-# 📖 Lesson 04 – Linux File System
+#  Lesson 04 – Linux File System
 
 > Learn how Linux organizes files and directories, understand the Linux File System Hierarchy (FHS), and confidently navigate your operating system using the command line.
 
@@ -39,7 +39,7 @@ After completing this lesson, you will be able to:
 
 ---
 
-# 📚 Key Terms
+#  Key Terms
 
 | Term                        | Definition                                              |
 | --------------------------- | ------------------------------------------------------- |
@@ -66,7 +66,7 @@ Understanding the Linux file system is one of the most important skills you'll l
 
 ---
 
-# 🌍 Why This Matters
+#  Why This Matters
 
 The Linux file system is the foundation of the operating system.
 
@@ -129,7 +129,7 @@ Documents/
 
 ---
 
-# 🌳 The Linux File System Hierarchy
+#  The Linux File System Hierarchy
 
 Linux organizes everything under a single top-level directory called the **Root Directory**.
 
@@ -169,7 +169,7 @@ Everything begins from:
 
 ---
 
-# 🌍 Root Directory
+#  Root Directory
 
 The **root directory** (`/`) is the highest directory in Linux.
 
@@ -349,7 +349,7 @@ Contains representations of hardware devices.
 Everything from disks to terminals appears here as a file.
 ---
 
-# 🧩 Understanding the Linux File System
+#  Understanding the Linux File System
 
 Unlike Windows, where files are often organized around different drives (such as `C:` or `D:`), Linux uses a **single unified directory tree**.
 
@@ -441,7 +441,7 @@ Many of these files are automatically removed after a reboot.
 
 ---
 
-# ✍️ Quick Practice
+#  Quick Practice
 
 Without using the internet, answer the following questions:
 
@@ -484,7 +484,7 @@ In this lesson you learned:
 
 ---
 
-# 🚀 What's Next?
+#  What's Next?
 
 Now that you understand **how Linux organizes information**, it's time to learn **how to interact with it**.
 
