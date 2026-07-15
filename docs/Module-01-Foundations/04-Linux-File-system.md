@@ -510,7 +510,7 @@ In the next lesson, you'll learn how to:
 
 💻 **Lab**
 
-[Lab 04 – Exploring the Linux File System](../../labs/lab-04-Linux-File-system.md)
+[Lab 04 – Exploring the Linux File System](../../labs/module-01/lab-04-Linux-File-system.md)
 
 📄 **Cheat Sheet**
 
