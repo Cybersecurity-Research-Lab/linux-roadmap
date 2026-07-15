@@ -309,24 +309,24 @@ In this lesson you learned:
 
 ⬅️ **Previous Lesson**
 
-📖 Lesson 02 – Installing Linux
+📖![Lesson 02 – Installing Linux](/02-Installing-Linux.md)
 
 ➡️ **Next Lesson**
 
-📖 Lesson 04 – Linux File System
+📖 ![Lesson 04 – Linux File System](/04-Linux-file-system.md)
 
 💻 **Lab**
 
-Lab 03 – Terminal Basics
+![Lab 03 – Terminal Basics](../../labs/lab-03-Terminal_basics)
 
 📄 **Cheat Sheet**
 
-Terminal Basics Cheat Sheet
+![Terminal Basics Cheat Sheet](../../cheatsheet/Terminal-basics)
 
 🛠️ **Troubleshooting**
 
-Module 01 Troubleshooting
+![Module 01 Troubleshooting](../../Troubleshooting/module01)
 
 📚 **Resources**
 
-Terminal Basics Resources
+![Terminal Basics Resources]
