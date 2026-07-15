@@ -33,9 +33,9 @@ After completing this lesson, you will be able to:
 
 ## 📖 Prerequisites
 
-* ![Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
-* ![Lesson 02 – Installing Linux](02-Installing-Linux.md)
-* ![Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
+* [Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
+* [Lesson 02 – Installing Linux](02-Installing-Linux.md)
+* [Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
 
 ---
 
@@ -502,24 +502,24 @@ In the next lesson, you'll learn how to:
 
 ⬅️ **Previous Lesson**
 
-![ Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
+[ Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
 
 ➡️ **Next Lesson**
 
- ![Lesson 05 – Files and Directories](05-Files-and-Directories.md)
+[Lesson 05 – Files and Directories](05-Files-and-Directories.md)
 
 💻 **Lab**
 
-![Lab 04 – Exploring the Linux File System](../../labs/lab-04-Linux-File-system.md)
+[Lab 04 – Exploring the Linux File System](../../labs/lab-04-Linux-File-system.md)
 
 📄 **Cheat Sheet**
 
-![Linux File System Cheat Sheet](../../cheatsheet/linux-file-systen.md)
+[Linux File System Cheat Sheet](../../cheatsheet/linux-file-systen.md)
 
 🛠️ **Troubleshooting**
 
-![Module 01 Troubleshooting](../../Troubleshooting/module-01.md)
+[Module 01 Troubleshooting](../../Troubleshooting/module-01.md)
 
 📚 **Resources**
 
-![Linux File System Resources](README.md)
+[Linux File System Resources](README.md)
