@@ -321,11 +321,11 @@ In this lesson you learned:
 
 📄 **Cheat Sheet**
 
-[Terminal Basics Cheat Sheet](../../cheatsheet/Terminal-basics)
+[Terminal Basics Cheat Sheet](../../Cheatsheet/Module-01.md)
 
 🛠️ **Troubleshooting**
 
-[Module 01 Troubleshooting](../../Troubleshooting/module01)
+[Module 01 Troubleshooting](../../Troubleshooting/module-01.md)
 
 📚 **Resources**
 
