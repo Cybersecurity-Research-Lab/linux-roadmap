@@ -662,11 +662,11 @@ In the next lesson, you'll learn:
 
 📄 **Cheat Sheet**
 
-[Creating and Managing Files Cheat Sheet](../../cheatsheet/module-01
+[Creating and Managing Files Cheat Sheet](../../Cheatsheet/Module-01.md)
 
 🛠️ **Troubleshooting**
 
-
+[module 01 troubleshooting](../../Troubleshooting/Module-01.md)
 
 📚 **Resources**
 
