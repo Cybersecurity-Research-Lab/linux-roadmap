@@ -514,7 +514,7 @@ In the next lesson, you'll learn how to:
 
 📄 **Cheat Sheet**
 
-[Linux File System Cheat Sheet](../../cheatsheet/linux-file-systen.md)
+[Linux File System Cheat Sheet](../../Cheatsheet/Module-01.md)
 
 🛠️ **Troubleshooting**
 
