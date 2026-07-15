@@ -518,7 +518,7 @@ In the next lesson, you'll learn how to:
 
 🛠️ **Troubleshooting**
 
-[Module 01 Troubleshooting](../../Troubleshooting/module-01.md)
+[Module 01 Troubleshooting](../../Troubleshooting/Module-01.md)
 
 📚 **Resources**
 
