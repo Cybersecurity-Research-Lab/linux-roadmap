@@ -12,7 +12,7 @@
 
 🟩 **Lab Type:** Hands-on
 
-📖 **Related Lesson:** [Lesson 02 – Installing Linux](../docs/Module-01-Foundations/02-Installing-Linux.md)
+📖 **Related Lesson:** [Lesson 02 – Installing Linux](../../docs/Module-01-Foundations/02-Installing-Linux.md)
 
 ---
 
@@ -341,12 +341,6 @@ Before moving on, make sure you can:
 
 ---
 
-# 🧭 Navigation
-
-⬅️ **Previous Lesson**
-
-📖 [Lesson 02 – Installing Linux](../docs/Module-01-Foundations/02-Installing-Linux.md)
-
 ➡️ **Next Lesson**
 
-📖 [Lesson 03 – Terminal Basics](../docs/Module-01-Foundations/03-Terminal-Basics.md)
+📖 [Lesson 03 – Terminal Basics](../../docs/Module-01-Foundations/03-Terminal-Basics.md)
