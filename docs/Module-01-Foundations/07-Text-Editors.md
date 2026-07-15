@@ -274,3 +274,316 @@ Unlike Nano, Vim uses **different modes**.
 This design makes Vim extremely fast once mastered.
 
 Although it may seem confusing at first, many Linux professionals prefer it because of its efficiency.
+
+---
+
+# 📝 Understanding Vim Modes
+
+Vim works differently from most text editors because it has multiple modes.
+
+The two most important modes are:
+
+| Mode            | Purpose                                 |
+| --------------- | --------------------------------------- |
+| **Normal Mode** | Navigate the file and execute commands. |
+| **Insert Mode** | Type and edit text.                     |
+
+When Vim starts, it opens in **Normal Mode**.
+
+You cannot immediately begin typing.
+
+---
+
+#  Entering Insert Mode
+
+Open a file:
+
+```bash
+vim notes.txt
+```
+
+Press:
+
+```text
+i
+```
+
+You are now in **Insert Mode**.
+
+You can begin typing normally.
+
+---
+
+#  Saving in Vim
+
+First, press:
+
+```text
+Esc
+```
+
+to return to **Normal Mode**.
+
+Then type:
+
+```text
+:w
+```
+
+Press:
+
+```text
+Enter
+```
+
+The file is saved.
+
+---
+
+#  Exiting Vim
+
+Return to **Normal Mode** by pressing:
+
+```text
+Esc
+```
+
+Quit Vim:
+
+```text
+:q
+```
+
+Press:
+
+```text
+Enter
+```
+
+---
+
+#  Save and Exit
+
+The most common command:
+
+```text
+:wq
+```
+
+Save the file and quit.
+
+---
+
+# 🚫 Exit Without Saving
+
+If you made changes but do **not** want to save them:
+
+```text
+:q!
+```
+
+This forces Vim to quit without saving.
+
+---
+
+#  Essential Vim Commands
+
+| Command | Action                |
+| ------- | --------------------- |
+| `i`     | Enter Insert Mode     |
+| `Esc`   | Return to Normal Mode |
+| `:w`    | Save                  |
+| `:q`    | Quit                  |
+| `:wq`   | Save and Quit         |
+| `:q!`   | Quit Without Saving   |
+
+You do **not** need to memorize advanced Vim commands yet.
+
+Knowing these basics is enough for most beginner Linux tasks.
+
+---
+
+# ⚖️ Nano vs Vim
+
+| Feature                                 | Nano        | Vim              |
+| --------------------------------------- | ----------- | ---------------- |
+| Beginner Friendly                       | ✅ Yes       | ❌ Learning curve |
+| Available on most Linux systems         | ✅ Usually   | ✅ Almost always  |
+| Displays shortcuts                      | ✅ Yes       | ❌ No             |
+| Best for quick edits                    | ✅ Excellent | ✅ Excellent      |
+| Preferred by experienced administrators | Sometimes   | Very often       |
+
+For beginners:
+
+* Learn **Nano** first.
+* Become familiar with **basic Vim** commands.
+* Master Vim gradually as your Linux skills grow.
+
+---
+
+#  Cybersecurity Example
+
+Suppose you're reviewing the SSH configuration of a Linux server.
+
+You connect using SSH and open:
+
+```bash
+nano /etc/ssh/sshd_config
+```
+
+or
+
+```bash
+vim /etc/ssh/sshd_config
+```
+
+You inspect the configuration, make the required changes, save the file, and exit.
+
+This is one of the most common tasks performed by Linux administrators and security professionals.
+
+---
+
+# ❌ Common Misconceptions
+
+### "Nano and Vim are programming editors."
+
+No.
+
+They are **general-purpose text editors**.
+
+They can edit:
+
+* Configuration files
+* Bash scripts
+* Source code
+* Notes
+* Markdown files
+* Log files
+
+---
+
+### "Vim is better than Nano."
+
+Not necessarily.
+
+Nano is easier for beginners.
+
+Vim is more powerful once you become comfortable with it.
+
+Both are valuable tools.
+
+---
+
+### "If I close Nano, my work is automatically saved."
+
+No.
+
+You must explicitly save your changes before exiting.
+
+---
+
+### "Vim is impossible to learn."
+
+No.
+
+Most beginners only need a handful of commands:
+
+* `i`
+* `Esc`
+* `:w`
+* `:q`
+* `:wq`
+* `:q!`
+
+That's enough to edit configuration files confidently.
+
+---
+
+#  Quick Practice
+
+Without opening the lesson:
+
+1. Create a new file using Nano.
+2. Write two sentences.
+3. Save the file.
+4. Exit Nano.
+5. Open the same file using Vim.
+6. Enter Insert Mode.
+7. Add another sentence.
+8. Save the file.
+9. Exit Vim.
+10. Display the file using `cat`.
+
+If you completed every task successfully, you've learned the fundamentals of terminal text editors.
+
+---
+
+# ✅ Best Practices
+
+✔ Learn Nano before learning advanced Vim features.
+
+✔ Always verify that your file has been saved before exiting.
+
+✔ Read configuration files carefully before modifying them.
+
+✔ Keep backup copies of important configuration files.
+
+✔ Practice editing small files before working on production servers.
+
+✔ Remember that many Linux servers only provide terminal-based editors.
+
+---
+
+# 📝 Summary
+
+In this lesson you learned:
+
+* Why Linux uses terminal text editors.
+* The purpose of Nano.
+* The purpose of Vim.
+* How to create and edit files using Nano.
+* How to save and exit Nano.
+* Vim's Normal and Insert modes.
+* How to save and exit Vim.
+* When to use Nano and when to use Vim.
+* Why text editors are essential for Linux administration and cybersecurity.
+
+---
+
+#  What's Next?
+
+Now that you can create, edit, and manage file it's time to understand **who can access them**.
+
+In the next module, you'll learn:
+
+* Linux users and groups.
+* File ownership.
+* Read, write, and execute permissions.
+* Permission notation.
+* The `chmod` command.
+* The `chown` command.
+* Why permissions are critical for Linux security.
+
+---
+
+## 🧭 Navigation
+
+⬅️ **Previous Lesson**
+
+[Lesson 06 – Creating and Managing Files](06-Creating-and-Managing-files.md)
+
+💻 **Lab**
+
+[Lab 07 – Text Editors (Nano & Vim Basics)](../../labs/module-01/Lab-07-Text-Editors.md)
+
+📄 **Cheat Sheet**
+
+Text Editors Cheat Sheet
+
+🛠️ **Troubleshooting**
+
+Module 01 Troubleshooting
+
+📚 **Resources**
+
+Text Editors Resources
