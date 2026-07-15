@@ -179,7 +179,7 @@ Think of it as the trunk of a tree, with every other directory branching from it
 
 ---
 
-# 🏠 Home Directory
+#  Home Directory
 
 Every user has a personal home directory.
 
