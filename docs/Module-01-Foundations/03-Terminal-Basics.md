@@ -325,7 +325,7 @@ In this lesson you learned:
 
 🛠️ **Troubleshooting**
 
-[Module 01 Troubleshooting](../../Troubleshooting/module-01.md)
+[Module 01 Troubleshooting](../../Troubleshooting/Module-01.md)
 
 📚 **Resources**
 
