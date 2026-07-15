@@ -494,7 +494,7 @@ In the next lesson, you'll learn how to:
 
 💻 **Lab**
 
-[Lab 05 – Navigating Files and Directories](../../labs/lab-05-Files-and-Directories)
+[Lab 05 – Navigating Files and Directories](../../labs/module-01/lab-05-Files-and-Directories)
 
 📄 **Cheat Sheet**
 
