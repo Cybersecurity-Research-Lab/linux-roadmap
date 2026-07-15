@@ -309,11 +309,11 @@ In this lesson you learned:
 
 ⬅️ **Previous Lesson**
 
-📖![Lesson 02 – Installing Linux](/02-Installing-Linux.md)
+📖![Lesson 02 – Installing Linux](02-Installing-Linux.md)
 
 ➡️ **Next Lesson**
 
-📖 ![Lesson 04 – Linux File System](/04-Linux-file-system.md)
+📖 ![Lesson 04 – Linux File System](04-Linux-file-system.md)
 
 💻 **Lab**
 
@@ -329,4 +329,4 @@ In this lesson you learned:
 
 📚 **Resources**
 
-![Terminal Basics Resources](/README.md)
+![Terminal Basics Resources](README.md)
