@@ -34,10 +34,10 @@ After completing this lesson, you will be able to:
 
 ## 📖 Prerequisites
 
-* ![Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
-* ![Lesson 02 – Installing Linux](02-Installing-Linux.md)
-* ![Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
-* ![Lesson 04 – Linux File System](04-Linux-File-Directories.md)
+* [Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
+* [Lesson 02 – Installing Linux](02-Installing-Linux.md)
+* [Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
+* [Lesson 04 – Linux File System](04-Linux-File-Directories.md)
 
 ---
 
@@ -486,19 +486,19 @@ In the next lesson, you'll learn how to:
 
 ⬅️ **Previous Lesson**
 
-![Lesson 04 – Linux File System](04-Linux-File-system.md)
+[Lesson 04 – Linux File System](04-Linux-File-system.md)
 
 ➡️ **Next Lesson**
 
-![Lesson 06 – Creating and Managing Files](06-Creating-and-Managing-files.md)
+[Lesson 06 – Creating and Managing Files](06-Creating-and-Managing-files.md)
 
 💻 **Lab**
 
-![Lab 05 – Navigating Files and Directories](../../labs/lab-05-Files-and-Directories)
+[Lab 05 – Navigating Files and Directories](../../labs/lab-05-Files-and-Directories)
 
 📄 **Cheat Sheet**
 
-![Files and Directories Cheat Sheet](../../Cheatsheet/module-01)
+[Files and Directories Cheat Sheet](../../Cheatsheet/module-01)
 
 🛠️ **Troubleshooting**
 
@@ -506,4 +506,4 @@ Module 01 Troubleshooting
 
 📚 **Resources**
 
-![Files and Directories Resources](README.md)
+[Files and Directories Resources](README.md)
