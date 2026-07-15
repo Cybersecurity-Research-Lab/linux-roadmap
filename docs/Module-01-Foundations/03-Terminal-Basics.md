@@ -329,4 +329,4 @@ In this lesson you learned:
 
 📚 **Resources**
 
-![Terminal Basics Resources]
+![Terminal Basics Resources](/README.md)
