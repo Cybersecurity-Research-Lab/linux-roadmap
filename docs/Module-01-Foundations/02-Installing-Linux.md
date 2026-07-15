@@ -234,10 +234,10 @@ Before moving to the next lesson, make sure you can:
 
 📖 [Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
 
-💻 [Lab 02 – Installing Linux](linux-roadmap/labs/Module-01-Linux-Foundations/Lab-02-Installing-Linux.md)
+💻 [Lab 02 – Installing Linux](../../labs/Module-01-Linux-Foundations/Lab-02-Installing-Linux.md)
 
-📄 [Linux Installation Cheat Sheet](linux-roadmap/cheatsheets/Module-01-Linux-Foundations/Linux-Installation.md)
+📄 [Linux Installation Cheat Sheet](../../cheatsheets/Module-01-Linux-Foundations/Linux-Installation.md)
 
-🛠️ [Troubleshooting](linux-roadmap/troubleshooting/Module-01-Linux-Foundations/installation-problems.md)
+🛠️ [Troubleshooting](../../troubleshooting/Module-01-Linux-Foundations/installation-problems.md)
 
 📚 [Module 01 – Linux Foundations](README.md)
