@@ -317,7 +317,7 @@ In this lesson you learned:
 
 💻 **Lab**
 
-[Lab 03 – Terminal Basics](../../labs/lab-03-Terminal_basics)
+[Lab 03 – Terminal Basics](../../labs/module-01/lab-03-Terminal_basics)
 
 📄 **Cheat Sheet**
 
