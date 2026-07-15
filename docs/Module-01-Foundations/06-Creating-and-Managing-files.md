@@ -654,24 +654,21 @@ In the next module, you'll learn:
 
 ⬅️ **Previous Lesson**
 
-📖 Lesson 05 – Files and Directories
+![Lesson 05 – Files and Directories](05-Files-and-Directories.md)
 
-➡️ **Next Lesson**
-
-📖 Lesson 07 – Linux Permissions
 
 💻 **Lab**
 
-Lab 06 – Creating and Managing Files
+![Lab 06 – Creating and Managing Files](../../labs/lab-06-Creating-and-managing-files.md)
 
 📄 **Cheat Sheet**
 
-Creating and Managing Files Cheat Sheet
+![Creating and Managing Files Cheat Sheet](../../cheatsheet/module-01
 
 🛠️ **Troubleshooting**
 
-Module 02 Troubleshooting
+
 
 📚 **Resources**
 
-Creating and Managing Files Resources
+![Creating and Managing Files Resources](README.md)
