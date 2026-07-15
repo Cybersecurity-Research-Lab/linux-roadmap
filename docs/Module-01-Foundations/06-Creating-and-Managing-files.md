@@ -35,11 +35,11 @@ After completing this lesson, you will be able to:
 
 ## 📖 Prerequisites
 
-* ![Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
-* ![Lesson 02 – Installing Linux](02-Installing-Linux.md)
-* ![Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
-* ![Lesson 04 – Linux File System](04-Linux-File-system.md)
-* ![Lesson 05 – Files and Directories](05-Files-and-Directories.md)
+* [Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
+* [Lesson 02 – Installing Linux](02-Installing-Linux.md)
+* [Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
+* [Lesson 04 – Linux File System](04-Linux-File-system.md)
+* [Lesson 05 – Files and Directories](05-Files-and-Directories.md)
 
 ---
 
@@ -654,16 +654,16 @@ In the next module, you'll learn:
 
 ⬅️ **Previous Lesson**
 
-![Lesson 05 – Files and Directories](05-Files-and-Directories.md)
+[Lesson 05 – Files and Directories](05-Files-and-Directories.md)
 
 
 💻 **Lab**
 
-![Lab 06 – Creating and Managing Files](../../labs/lab-06-Creating-and-managing-files.md)
+[Lab 06 – Creating and Managing Files](../../labs/lab-06-Creating-and-managing-files.md)
 
 📄 **Cheat Sheet**
 
-![Creating and Managing Files Cheat Sheet](../../cheatsheet/module-01
+[Creating and Managing Files Cheat Sheet](../../cheatsheet/module-01
 
 🛠️ **Troubleshooting**
 
@@ -671,4 +671,4 @@ In the next module, you'll learn:
 
 📚 **Resources**
 
-![Creating and Managing Files Resources](README.md)
+[Creating and Managing Files Resources](README.md)
