@@ -35,7 +35,7 @@ After completing this lesson, you will be able to:
 
 ## 📖 Prerequisites
 
-* ![Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
+![Lesson 01 – Introduction to Linux](01-Introduction-to-Linux.md)
 * ![Lesson 02 – Installing Linux](02-Installing-Linux.md)
 * ![Lesson 03 – Terminal Basics](03-Terminal-Basics.md)
 * ![Lesson 04 – Linux File System](04-Linux-File-system.md)
