@@ -224,7 +224,7 @@ Before moving to the next lesson, make sure you can:
 
 💻 [Lab 02 – Installing Linux](../../labs/module-01/Lab-02-Installing-linux.md)
 
-📄 [Linux Installation Cheat Sheet](../../Cheatsheets/Module-01.md)
+📄 [Linux Installation Cheat Sheet](../../Cheatsheet/Module-01.md)
 
 🛠️ [Troubleshooting](../../Troubleshooting/Module-01.md)
 
