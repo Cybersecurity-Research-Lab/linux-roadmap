@@ -498,11 +498,10 @@ In the next lesson, you'll learn how to:
 
 📄 **Cheat Sheet**
 
-[Files and Directories Cheat Sheet](../../Cheatsheet/module-01)
+[Files and Directories Cheat Sheet](../../Cheatsheet/Module-01.md)
 
 🛠️ **Troubleshooting**
-
-Module 01 Troubleshooting
+[Module 01 Troubleshooting](../../Troubleshooting/Module-01.md)
 
 📚 **Resources**
 
