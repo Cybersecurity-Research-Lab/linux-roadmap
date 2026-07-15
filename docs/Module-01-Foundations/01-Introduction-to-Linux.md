@@ -252,6 +252,6 @@ None — this is the first lesson.
 
 💻 [Lab 01 – Introduction to Linux](../../labs/module-01/Lab-01-Introduction-to-Linux.md)
 
-📄 [Linux Basics Cheat Sheet](../../cheatsheets/Linux-Basics.md)
+📄 [Linux Basics Cheat Sheet](../../cheatsheets/Module-01.md)
 
 📚 [Module Resources](README.md)
