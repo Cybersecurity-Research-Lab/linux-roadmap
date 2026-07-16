@@ -45,7 +45,7 @@ Multiple public incident response write-ups describe attackers creating a system
 
 ---
 
-## Main Topic 1: systemd and systemctl Fundamentals
+## systemd and systemctl Fundamentals
 
 systemd manages **units** — services, sockets, timers, mounts, and more — described by unit files usually ending in `.service`. The `systemctl` command is your primary interface:
 
@@ -69,7 +69,7 @@ systemctl is-active nginx                                # quick active/inactive
 systemctl is-enabled nginx                                # quick enabled/disabled check
 ```
 
-## Main Topic 2: Logs and Diagnostics with journalctl
+## Logs and Diagnostics with journalctl
 
 systemd centralizes logging through the **journal**, queried with `journalctl`:
 ```bash
@@ -82,7 +82,7 @@ journalctl --disk-usage             # how much space the journal is consuming
 ```
 When a service fails to start, `systemctl status <service>` will show the last few log lines directly, but `journalctl -u <service> -n 50 --no-pager` gives you a deeper, more readable slice for real troubleshooting.
 
-## Main Topic 3: Writing and Managing Unit Files
+## Writing and Managing Unit Files
 
 A minimal `.service` unit file:
 ```ini
