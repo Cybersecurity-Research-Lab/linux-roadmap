@@ -45,7 +45,7 @@ A common real-world finding in penetration tests: a backup script left with `777
 
 ---
 
-## Main Topic 1: Reading and Understanding Permissions
+## Reading and Understanding Permissions
 
 Running `ls -l` shows a permission string like this:
 ```
@@ -59,7 +59,7 @@ Breaking down `-rwxr-xr-x`:
 
 Each triad is read/write/execute. For a **file**, execute means "can run this as a program/script." For a **directory**, execute means "can enter/traverse this directory" — a subtlety that trips up almost everyone at first: a directory can be readable (you can `ls` it) but not executable (you can't `cd` into it or access files inside, even ones you own).
 
-## Main Topic 2: Changing Permissions and Ownership
+##  Changing Permissions and Ownership
 
 **Octal notation** assigns each permission a value: read = 4, write = 2, execute = 1. Sum them per actor:
 ```
@@ -82,7 +82,7 @@ sudo chgrp developers deploy.sh          # change group only
 sudo chown -R www-data:www-data /var/www # recursive ownership change
 ```
 
-## Main Topic 3: Special Permissions and umask
+##  Special Permissions and umask
 
 Beyond the standard `rwx`, three special bits change how a file or directory behaves:
 
