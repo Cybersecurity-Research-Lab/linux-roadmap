@@ -47,7 +47,7 @@ A well-documented category of cloud misconfiguration involves administrators bin
 
 ---
 
-## Main Topic 1: IP Addressing and Interfaces
+## IP Addressing and Interfaces
 
 Every network-connected Linux host has one or more **interfaces** — physical (like `eth0`, `enp0s3`) or virtual (like `lo`, the loopback interface, or `docker0`). Each interface can have one or more IP addresses assigned.
 
@@ -66,7 +66,7 @@ Example output interpretation:
 
 The **loopback interface** (`lo`, typically `127.0.0.1`) lets a host talk to itself — many services (databases, local APIs) are deliberately bound only to loopback so they're unreachable from any other machine, which is an important security design pattern referenced throughout this module.
 
-## Main Topic 2: Routing and Gateways
+##  Routing and Gateways
 
 When a host wants to reach an address outside its local subnet, it consults its **routing table** to decide which interface and gateway to use:
 ```bash
@@ -83,7 +83,7 @@ The `default via 192.168.1.1` line is the **default gateway** — where traffic 
 
 Tracing where traffic actually goes hop by hop is covered with `traceroute`/`mtr` in Lesson 03, but understanding the routing table conceptually here is what makes that tool's output meaningful rather than mysterious.
 
-## Main Topic 3: TCP, UDP, and Ports
+##  TCP, UDP, and Ports
 
 A single IP address can host many simultaneous network services, distinguished by **port number** (0–65535). A few reserved, well-known ports you'll see constantly:
 
