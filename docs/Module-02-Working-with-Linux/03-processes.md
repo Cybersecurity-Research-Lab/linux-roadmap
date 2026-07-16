@@ -163,4 +163,4 @@ Many of the most important long-running processes on a system are actually manag
 
 
 ## Navigation
-⬅️ [Previous: Lesson 02 – File Permissions](02-file-permissions.md) | 🏠 [Module README](README.md) | ➡️ [Next: Lesson 04 – Services](04-services.md)
+⬅️ [Previous: Lesson 02 – File Permissions](02-file-permissions.md) | [lab 03 : processes ](../../labs/module-02/03-processes.md) | ➡️ [Next: Lesson 04 – Services](04-services.md)
