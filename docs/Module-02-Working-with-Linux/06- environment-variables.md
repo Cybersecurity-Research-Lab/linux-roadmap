@@ -45,7 +45,7 @@ A well-documented class of privilege escalation vulnerability involves a root-ow
 
 ---
 
-## Main Topic 1: Viewing and Setting Variables
+## Viewing and Setting Variables
 
 ```bash
 printenv                  # list all environment variables for this shell
@@ -78,7 +78,7 @@ Setting a variable for a single command only, without affecting the current shel
 MY_VAR="temp" some_command
 ```
 
-## Main Topic 2: Key System Variables
+## Key System Variables
 
 | Variable | Purpose |
 |---|---|
@@ -97,7 +97,7 @@ echo $PATH
 ```
 Directories are searched **left to right**, and the first match wins. This ordering matters enormously for security: if a writable, low-trust directory appears *before* the trusted system directories in `PATH`, any binary placed there with the name of a common command will shadow the real one.
 
-## Main Topic 3: Persistence — Profile Files and Scope
+## Persistence — Profile Files and Scope
 
 Variables set interactively in a shell disappear when that shell closes. To persist configuration, variables are set in shell startup/profile files:
 
