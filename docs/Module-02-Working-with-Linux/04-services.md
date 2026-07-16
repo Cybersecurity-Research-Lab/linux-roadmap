@@ -173,4 +173,4 @@ Services depend on software actually being installed on the system in the first 
 ---
 
 ## Navigation
-⬅️ [Previous: Lesson 03 – Processes](03-processes.md) | 🏠 [Module README](README.md) | ➡️ [Next: Lesson 05 – Package Managers](05-package-managers.md)
+⬅️ [Previous: Lesson 03 – Processes](03-processes.md) | [lab 04 : services](../../labs/module-02/04-services.md) | ➡️ [Next: Lesson 05 – Package Managers](05-package-managers.md)
