@@ -169,4 +169,4 @@ Software doesn't just depend on packages — it also depends on configuration pa
 ---
 
 ## Navigation
-⬅️ [Previous: Lesson 04 – Services](04-services.md) | 🏠 [Module README](README.md) | ➡️ [Next: Lesson 06 – Environment Variables](06-environment-variables.md)
+⬅️ [Previous: Lesson 04 – Services](04-services.md) | [Lab 05 : package managers](../../labs/module-02/05-package-managers.md) | ➡️ [Next: Lesson 06 – Environment Variables](06-environment-variables.md)
