@@ -46,7 +46,7 @@ The "curl pipe bash" pattern (`curl -sSL https://some-url/install.sh | bash`), w
 
 ---
 
-## Main Topic 1: Standard Streams and Basic Redirection
+## Standard Streams and Basic Redirection
 
 Every process has (at minimum) three standard streams, referenced by file descriptor number:
 ```
@@ -77,7 +77,7 @@ command > /dev/null 2>&1             # discard all output entirely
 ```
 Order matters in `2>&1` constructs: `command > file 2>&1` redirects stdout to `file`, *then* points stderr at wherever stdout currently points (the same file) — reversing the order (`command 2>&1 > file`) produces a different result, sending stderr to the terminal and only stdout to the file, which is a subtle and common bug.
 
-## Main Topic 2: Pipes — Connecting Commands
+## Pipes — Connecting Commands
 
 A pipe (`|`) connects one command's stdout directly to the next command's stdin, without ever touching disk:
 ```bash
@@ -96,7 +96,7 @@ This single pipeline (a real, commonly used one) extracts failed SSH login attem
 ps aux | tee process_snapshot.txt | grep nginx
 ```
 
-## Main Topic 3: Practical Text-Processing Combinations
+## Practical Text-Processing Combinations
 
 Common building blocks worth being fluent in, since they appear constantly in both administration and log/forensic analysis:
 
@@ -179,4 +179,4 @@ This wraps up the core lesson content for the module. From here, use the module-
 
 
 ## Navigation
-⬅️ [Previous: Lesson 06 – Environment Variables](06-environment-variables.md) | [ Lab 07: shell redirection pipes](../../labs/module-02/07-shell-redirection-pipes.md) | ➡️ [Troubleshooting Guide](troubleshooting-guide.md)
+⬅️ [Previous: Lesson 06 – Environment Variables](06-environment-variables.md) | [ Lab 07: shell redirection pipes](../../labs/module-02/07-shell-redirection-pipes.md) | ➡️ [Troubleshooting Guide](../../Troubleshooting/Module-02.md)
