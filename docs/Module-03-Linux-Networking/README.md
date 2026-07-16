@@ -64,8 +64,8 @@ Every lesson in this module follows the same algorithm, so you can navigate effi
 | 05 | [Firewall Basics](05-firewall-basics.md) | 🔴 Intermediate–Advanced | 60 min |
 
 **Supporting References (module-wide):**
-- 🛠️ [Troubleshooting Guide](troubleshooting-guide.md) — common failures across every lesson topic and how to diagnose them
-- 📑 [Cheat Sheet](cheatsheet.md) — one-page quick reference for every command covered in the module
+- 🛠️ [Troubleshooting Guide](../../Troubleshooting/Module-03.md) — common failures across every lesson topic and how to diagnose them
+- 📑 [Cheat Sheet](../../Cheatsheet/Module-03.md) — one-page quick reference for every command covered in the module
 
 **Total estimated module time:** ~4.5–5 hours (including labs)
 
