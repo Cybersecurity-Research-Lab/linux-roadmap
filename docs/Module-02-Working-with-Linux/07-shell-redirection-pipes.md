@@ -173,7 +173,7 @@ Predict each output before running it, then confirm.
 Redirection and pipes let you rewire a program's input and output streams and chain simple, single-purpose tools into powerful workflows — the practical expression of Unix's core design philosophy. The same primitives that power everyday log analysis (`grep | awk | sort | uniq -c`) also underlie reverse shells and "pipe to shell" installation patterns, making fluency here valuable for both legitimate administration and security analysis.
 
 ## What's Next?
-This wraps up the core lesson content for the module. From here, use the module-wide **[Troubleshooting Guide](troubleshooting-guide.md)** whenever you hit an unexpected error across any topic, and keep the **[Cheat Sheet](cheatsheet.md)** open as a quick reference while you continue practicing.
+This wraps up the core lesson content for the module. From here, use the module-wide **[Troubleshooting Guide](../../Troubleshooting/Module-02.md)** whenever you hit an unexpected error across any topic, and keep the **[Cheat Sheet](../../Cheatsheet/Module-02.md)** open as a quick reference while you continue practicing.
 
 ---
 
