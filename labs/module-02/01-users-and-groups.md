@@ -23,4 +23,4 @@ Deliverable: A short text log of each command you ran and its output, plus one s
 
 Navigation
 
-➡️ Next: Lesson 02 – File Permissions
+➡️ [Next: Lesson 02 – File Permissions](../../docs/Module-02-Working-with-Linux/02--file-permissions.md)
