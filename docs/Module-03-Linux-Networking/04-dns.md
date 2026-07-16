@@ -46,7 +46,7 @@ DNS cache poisoning attacks, where an attacker tricks a resolver into caching a 
 
 ---
 
-## Main Topic 1: How DNS Resolution Works
+## How DNS Resolution Works
 
 When a Linux host needs to resolve `example.com`, the general flow is:
 
@@ -61,7 +61,7 @@ cat /etc/hosts                  # static hostname-to-IP overrides checked before
 ```
 An entry in `/etc/hosts` always takes precedence over DNS for that hostname — a useful fact for testing (temporarily pointing a hostname at a different IP without touching real DNS) and a fact worth checking when a host resolves a name unexpectedly.
 
-## Main Topic 2: Querying DNS — dig and nslookup
+## Querying DNS — dig and nslookup
 
 **`dig`** is the modern, detailed tool of choice:
 ```bash
@@ -91,7 +91,7 @@ Common record types you'll encounter:
 | NS | The authoritative nameservers for the domain |
 | PTR | Used for reverse lookups (IP to hostname) |
 
-## Main Topic 3: Local Resolution Configuration and Security Considerations
+## Local Resolution Configuration and Security Considerations
 
 `/etc/resolv.conf` typically looks like:
 ```
