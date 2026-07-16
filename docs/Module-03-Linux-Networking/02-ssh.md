@@ -46,7 +46,7 @@ Numerous publicly documented breaches trace back to SSH access gained through we
 
 ---
 
-## Main Topic 1: Connecting and Basic SSH Usage
+## Connecting and Basic SSH Usage
 
 ```bash
 ssh user@remotehost                     # connect
@@ -64,7 +64,7 @@ rsync -avz localdir/ user@remotehost:/remote/path/         # more efficient, inc
 ```
 `rsync` over SSH is generally preferred over `scp` for anything beyond a quick one-off copy, since it only transfers changed data and supports resuming interrupted transfers.
 
-## Main Topic 2: SSH Key-Based Authentication
+## SSH Key-Based Authentication
 
 Generating a key pair:
 ```bash
@@ -88,7 +88,7 @@ chmod 644 ~/.ssh/id_ed25519.pub       # public key: fine to be more open
 ```
 This directly connects back to Lesson 02 of the Linux Fundamentals module (File Permissions) — SSH's refusal to use over-permissive key files is a deliberate security control, not a bug.
 
-## Main Topic 3: Hardening the SSH Server
+## Hardening the SSH Server
 
 The server configuration lives at `/etc/ssh/sshd_config`. Key hardening settings:
 ```
