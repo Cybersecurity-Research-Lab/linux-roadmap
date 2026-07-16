@@ -170,4 +170,4 @@ With identity and access control covered, Lesson 03 moves to what's actually run
 ---
 
 ## Navigation
-⬅️ [Previous: Lesson 01 – Users and Groups](01-users-and-groups.md) | 🏠 [Module README](README.md) | ➡️ [Next: Lesson 03 – Processes](03-processes.md)
+[lab 02 : file permissions](../../labs/module-02-file-permissions.md) | 🏠 [Module README](README.md) | ➡️ [Next: Lesson 03 – Processes](03-processes.md)
