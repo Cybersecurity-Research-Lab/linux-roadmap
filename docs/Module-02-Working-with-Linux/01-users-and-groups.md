@@ -187,4 +187,4 @@ Now that you understand *who* can access a system, Lesson 02 covers *what* they'
 ---
 
 ## Navigation
-⬅️ [Back to Module README](README.md) |[Lab 01 : users and group](../../labs/module-02/01-users-and-groups.md) | ➡️ [Next: Lesson 02 – File Permissions](02-file-permissions.md)
+⬅️ [Back to Module README](README.md) | [Lab 01 : users and group](../../labs/module-02/01-users-and-groups.md) | ➡️ [Next: Lesson 02 – File Permissions](02-file-permissions.md)
