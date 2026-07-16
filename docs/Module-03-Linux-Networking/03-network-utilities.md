@@ -45,7 +45,7 @@ Internet-wide scanning studies (research projects that continuously `nmap`-style
 
 ---
 
-## Main Topic 1: Connectivity Testing — ping, traceroute, mtr
+##  Connectivity Testing — ping, traceroute, mtr
 
 ```bash
 ping host                    # send ICMP echo requests, Ctrl+C to stop
@@ -57,7 +57,7 @@ mtr host                            # combines ping + traceroute, live updating
 
 `traceroute`/`mtr` show every router hop between you and the destination, which is invaluable for diagnosing *where* connectivity breaks down on a multi-hop path, rather than just knowing that it did.
 
-## Main Topic 2: Connections and Listening Ports — ss and netstat
+##  Connections and Listening Ports — ss and netstat
 
 ```bash
 ss -tulnp          # TCP+UDP, listening, numeric, show process — the single most useful combo
@@ -72,7 +72,7 @@ tcp   LISTEN  0  128  127.0.0.1:5432   0.0.0.0:*   users:(("postgres",pid=1234,f
 ```
 This tells you PostgreSQL is listening on `127.0.0.1:5432` (loopback only — not reachable externally, tying directly back to Lesson 01's interface-binding discussion) with PID 1234.
 
-## Main Topic 3: Web Requests, Port Scanning, and Packet Capture
+##  Web Requests, Port Scanning, and Packet Capture
 
 **`curl`/`wget`** — command-line tools for making HTTP(S) requests, essential for testing web services and APIs directly:
 ```bash
