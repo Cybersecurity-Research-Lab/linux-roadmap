@@ -49,7 +49,7 @@ In several documented breaches, attackers with temporary root access created a l
 
 ---
 
-## Main Topic 1: The Identity Files
+## The Identity Files
 
 Linux stores account information in plain text files under `/etc/`. Understanding their structure is the single most useful skill in this lesson.
 
@@ -76,7 +76,7 @@ group_name:x:GID:comma_separated_members
 
 **`/etc/gshadow`** — the group equivalent of the shadow file, storing group passwords and administrators (rarely used today, but still present on most systems).
 
-## Main Topic 2: Managing User Accounts
+##  Managing User Accounts
 
 The core commands for user lifecycle management:
 
@@ -109,7 +109,7 @@ sudo userdel -r jsmith
 
 Many distributions also ship `adduser`, a friendlier interactive wrapper around `useradd` — functionally similar but with guided prompts.
 
-## Main Topic 3: Managing Groups and Membership
+## Managing Groups and Membership
 
 Groups let you grant a set of permissions once and apply them to many users. There are two kinds of membership:
 
