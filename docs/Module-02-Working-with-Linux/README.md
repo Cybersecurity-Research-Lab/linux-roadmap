@@ -69,8 +69,8 @@ Every lesson in this module follows the same algorithm, so you can navigate effi
 | 07 | [Shell Redirection & Pipes](07-shell-redirection-pipes.md) | 🔴 Intermediate–Advanced | 55 min |
 
 **Supporting References (module-wide):**
-- 🛠️ [Troubleshooting Guide](troubleshooting-guide.md) — common failures across every lesson topic and how to diagnose them
-- 📑 [Cheat Sheet](cheatsheet.md) — one-page quick reference for every command covered in the module
+- 🛠️ [Troubleshooting Guide](../../Troubleshooting/Module-02.md) — common failures across every lesson topic and how to diagnose them
+- 📑 [Cheat Sheet](../../Cheatsheet/Module-02.md) — one-page quick reference for every command covered in the module
 
 **Total estimated module time:** ~5.5–6 hours (including labs)
 
