@@ -39,7 +39,7 @@ Every lesson in this module follows the same algorithm, so you can navigate effi
  ├─ Real-World Example
  ├─ Main Topic 1
  ├─ Main Topic 2
- ├─ Main Topic 3 (repeated as needed)
+ ├─ Main Topic 3
  ├─ Tips
  ├─ Common Mistakes
  ├─ Common Misconceptions
@@ -48,7 +48,6 @@ Every lesson in this module follows the same algorithm, so you can navigate effi
  ├─ Best Practices
  ├─ Summary
  ├─ What's Next?
- ├─ 🧪 Hands-On Lab
  └─ Navigation
 ```
 
