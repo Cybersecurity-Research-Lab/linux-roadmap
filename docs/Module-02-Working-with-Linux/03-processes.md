@@ -46,7 +46,7 @@ In numerous documented web application compromises, investigators traced the ini
 
 ---
 
-## Main Topic 1: Inspecting Processes
+## Inspecting Processes
 
 **`ps`** — snapshot of current processes:
 ```bash
@@ -68,7 +68,7 @@ Inside `top`, press `M` to sort by memory, `P` to sort by CPU, `k` to kill a pro
 
 **`/proc/<PID>/`** — the kernel exposes live process detail as a virtual filesystem. `/proc/<PID>/cmdline`, `/proc/<PID>/exe`, `/proc/<PID>/cwd`, and `/proc/<PID>/environ` are goldmines for investigating a specific process in depth.
 
-## Main Topic 2: Controlling Processes — Signals and Job Control
+## Controlling Processes — Signals and Job Control
 
 Processes are controlled by sending **signals**. The two you'll use constantly:
 ```bash
@@ -90,7 +90,7 @@ Ctrl+Z               # suspend the current foreground job
 Ctrl+C               # send SIGINT to the current foreground job
 ```
 
-## Main Topic 3: Process States and Relationships
+## Process States and Relationships
 
 Every process has a state, shown in `ps`'s `STAT` column:
 - `R` — running or runnable
