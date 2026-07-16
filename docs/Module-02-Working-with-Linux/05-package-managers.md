@@ -45,7 +45,7 @@ Multiple widely reported breaches trace back to internet-facing services running
 
 ---
 
-## Main Topic 1: Debian-Based Systems — apt and dpkg
+## Debian-Based Systems — apt and dpkg
 
 `apt` (and its lower-level counterpart `dpkg`) is used on Debian, Ubuntu, and derivatives.
 
@@ -69,7 +69,7 @@ dpkg -S /usr/sbin/nginx    # find which package owns a given file
 ```
 `apt update` is easily confused with `apt upgrade` — `update` only refreshes the *index* of what's available; it installs nothing by itself. This is one of the most common points of confusion for people new to Debian-based systems.
 
-## Main Topic 2: Red Hat-Based Systems — dnf/yum and rpm
+## Red Hat-Based Systems — dnf/yum and rpm
 
 `dnf` (modern) and `yum` (older, still common on RHEL 7/CentOS 7) are used on RHEL, Fedora, Rocky Linux, AlmaLinux, and derivatives. Command syntax is very close between the two.
 
@@ -91,7 +91,7 @@ rpm -qf /usr/sbin/httpd      # find which package owns a given file
 rpm -qi httpd                # detailed package info for an installed package
 ```
 
-## Main Topic 3: Repositories, Verification, and Auditing
+## Repositories, Verification, and Auditing
 
 Package sources are configured in text files:
 - Debian/Ubuntu: `/etc/apt/sources.list` and `/etc/apt/sources.list.d/*.list`
