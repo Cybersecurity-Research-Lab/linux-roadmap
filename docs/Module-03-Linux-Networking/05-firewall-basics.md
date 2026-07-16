@@ -159,10 +159,10 @@ Identify your lab system's current firewall tool, its default policy, and every 
 Host-based firewalls, built on Linux's netfilter framework and accessible through `ufw`, `firewalld`, or raw `iptables`/`nftables`, are the mechanism that actually enforces which network traffic reaches a host and which is allowed out. A default-deny policy with narrowly scoped allow rules is the consistently recommended baseline, and understanding rule ordering, persistence, and the critical importance of not locking yourself out remotely ties together everything else covered in this module — addressing, remote access, diagnostics, and name resolution all become concretely enforceable through firewall configuration.
 
 ## What's Next?
-This wraps up the core lesson content for the module. From here, use the module-wide **[Troubleshooting Guide](troubleshooting-guide.md)** whenever you hit an unexpected networking or firewall issue, and keep the **[Cheat Sheet](cheatsheet.md)** open as a quick reference while you continue practicing.
+This wraps up the core lesson content for the module. From here, use the module-wide **[Troubleshooting Guide](../../Troubleshooting/Module-03.md)** whenever you hit an unexpected networking or firewall issue, and keep the **[Cheat Sheet](../../Cheatsheet/Module-03.md)** open as a quick reference while you continue practicing.
 
 
 ---
 
 ## Navigation
-⬅️ [Previous: Lesson 04 – DNS](04-dns.md) | [ Lab 05: Firwalls-basics](../../labs/module-03/05-firewall-basics.md) | ➡️ [Troubleshooting Guide](troubleshooting-guide.md)
+⬅️ [Previous: Lesson 04 – DNS](04-dns.md) | [ Lab 05: Firwalls-basics](../../labs/module-03/05-firewall-basics.md) | ➡️ [Troubleshooting Guide](../../Troubleshooting/Module-03.md)
