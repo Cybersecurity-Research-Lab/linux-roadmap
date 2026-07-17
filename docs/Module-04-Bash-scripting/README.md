@@ -110,4 +110,4 @@ Suggested setups:
 
 ## 🚀 Get Started
 
-Begin with **[Lesson 01 – Bash Fundamentals](01-bash-fundamentals.md)**.
+Begin with **[Lesson 01 – Bash Fundamentals](01-bash-fundamentals.md)**
