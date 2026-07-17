@@ -44,7 +44,7 @@ Post-incident reviews of complex, long-lived administrative shell scripts (the k
 
 ---
 
-## Main Topic 1: Defining and Calling Functions
+## Defining and Calling Functions
 
 ```bash
 # Two equivalent syntaxes
@@ -61,7 +61,7 @@ greet2 "Bob"
 ```
 Inside a function, `$1`, `$2`, etc. refer to the arguments *passed to the function*, not the script's own arguments — this is a common point of confusion, since the syntax looks identical to positional parameters at the script level (Lesson 02) but refers to a completely different, function-local set of values.
 
-## Main Topic 2: Variable Scope and local
+## Variable Scope and local
 
 ```bash
 counter=10          # global variable
@@ -77,7 +77,7 @@ echo "Outside function: $counter"      # prints "Outside function: 10" — globa
 ```
 Without `local`, any variable assigned inside a function is **global by default** in Bash — a significant difference from many other languages, and a common source of subtle bugs where a function unintentionally overwrites a variable used elsewhere in the script. As a strong default habit: declare every variable used only within a function as `local`, unless you specifically intend for it to modify global state.
 
-## Main Topic 3: Returning Data from Functions
+## Returning Data from Functions
 
 Bash functions don't return arbitrary data types the way functions do in most other languages — they have a numeric **exit status** (0–255, checked via `$?` or directly in a conditional), and any actual data is typically communicated either by printing to stdout (and having the caller capture it with command substitution) or by explicitly setting a global variable.
 
